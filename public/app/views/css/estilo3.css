@@ -1,0 +1,27 @@
+table,thead,tr,th{
+	text-align: center;
+
+}
+table,tbody,tr,td{
+	text-align: center;
+
+}
+#barra{
+	width: 90%;
+	
+	
+	max-width: 100%;
+	min-width: 30%;
+}
+
+#barra li,a{
+	min-width: 10%;
+	font-size: 86.6%;
+	
+}	
+.nav>li>a{
+	padding: 2px 2px;
+}
+#menuArriba li{
+	padding: 10px;
+}
